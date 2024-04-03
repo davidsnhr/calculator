@@ -9,4 +9,4 @@ Para probar la calculadora, sigue estos pasos:
 1. Clona este repositorio en tu máquina local usando el siguiente comando en tu terminal:
 
 ```bash
-git clone [https://github.com/davidsnhr/calculator.git]
+git clone https://github.com/davidsnhr/calculator.git
