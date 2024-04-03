@@ -1,6 +1,6 @@
 # Calculadora con HTML, CSS y JavaScript
 
-Este proyecto es una calculadora simple desarrollada con HTML, CSS y JavaScript. Está diseñada para ayudar a quienes están aprendiendo a crear funciones, manipulación del DOM, agregar estilos, introducción de scripts, manipulación de strings y uso de variables globales en JavaScript.
+Este proyecto es una calculadora simple desarrollada con HTML, CSS y JavaScript. Está diseñada para aprender a crear funciones, manipulación del DOM, agregar estilos, introducción de scripts, manipulación de strings y uso de variables globales en JavaScript.
 
 ## Instrucciones
 
